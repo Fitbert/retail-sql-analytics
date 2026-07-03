@@ -6,6 +6,8 @@ customers, orders, products, order items, and employees.
 ## Schema
 [brief description or link to schema.sql, maybe an ER diagram image]
 
+![image of schema](image.png)
+
 ## Key Queries
 - Top customers by spend
 - Revenue by category over time
